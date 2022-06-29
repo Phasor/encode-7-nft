@@ -178,6 +178,7 @@ https://ethereum-contract-security-techniques-and-tips.readthedocs.io/en/latest/
 
 https://github.com/wissalHaji/solidity-coding-advices/tree/master/design-patterns/security
 # Homework
+* Create Github Issues with your questions about this lesson
 * Read the references
 * Get to know the Coding Patterns and Design Patterns in the reference
 * (Optional) Experiment with dynamic pricing models for buying/selling the ERC20 and NFTs
